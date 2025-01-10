@@ -1,0 +1,159 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "Su1hF2HQ0IY6"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "\n",
+        "PROBABILIDAD Y ESTADISTICA\n",
+        "\n",
+        "Tipos de estadistica\n",
+        "\n",
+        "*   ESTADISTICA DESCRIPTIVA\n",
+        "\n",
+        "La estadística descriptiva es la rama de la estadística que se encarga de describir los datos recopilados para ayudar a analizarlos.\n",
+        "\n",
+        "   *   Medidas Centrales   \n",
+        "   *   Dispersiones\n",
+        "\n",
+        "\n",
+        "\n",
+        "*   PASOS PARA LA RECOLECCION DE ESTADISTICA DESCRIPTIVA\n",
+        "\n",
+        "1.   Recoleccion y organizacion descriptiva\n",
+        "2.   Calculo de medidad descriptivas\n",
+        "3.   Presentacion de datos\n",
+        "\n",
+        "\n",
+        " ANALISIS DE PATRONES Y RELACIONES\n",
+        "\n",
+        "\n",
+        "  *Dispercia\n",
+        "\n",
+        "   Es el grado en que una distribución de datos se aleja, o se acerca, en valor absoluto a la media aritmética, como estadístico de posición central.\n",
+        "\n",
+        "   *Rango\n",
+        "\n",
+        "   Es una medida de dispersión que indica la diferencia entre el valor máximo y el valor mínimo de los datos de una muestra.\n",
+        "\n",
+        "   *Varianza\n",
+        "\n",
+        "   La varianza es una medida de dispersión que indica la variabilidad de una variable aleatoria.\n",
+        "\n",
+        "   *Desviacion\n",
+        "\n",
+        "   El término desviación se refiere a la medida de cómo se dispersan o separan los valores de un conjunto de datos respecto a una medida central, como la media.\n",
+        "\n",
+        "   *Variacion\n",
+        "\n",
+        "   Es una medida estadística crucial que permite evaluar la dispersión relativa de un conjunto de datos.\n",
+        "\n",
+        "---\n",
+        "\n",
+        "\n",
+        "*   ESTADISTICA INFERENCIAL\n",
+        "\n",
+        "\n",
+        "La estadística inferencial es la rama de la estadística que se encarga de determinar los valores de una población a partir de los datos de una muestra.\n",
+        "\n",
+        "\n",
+        "  *   Probabilidades\n",
+        "\n",
+        "  Es una medida cuantitativa que evalúa la posibilidad de que ocurra un evento en particular\n",
+        "\n",
+        "  *   Muestreo\n",
+        "\n",
+        "  Es el proceso de seleccionar un subconjunto (llamado muestra) de una población para analizarla\n",
+        "\n",
+        "  *   Hipotesis\n",
+        "\n",
+        "  Es una afirmación o suposición que se realiza sobre una población o proceso, y que puede ser probada mediante el análisis de datos.\n",
+        "\n",
+        "\n",
+        "  PASOS PARA LA RECOLECCION DE ESTADISTICA INFERENCIAL\n",
+        "\n",
+        "  Conjetura de hipotenusa\n",
+        "\n",
+        "  Generar intervalos\n",
+        "\n",
+        "  Modelado estadistico\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "xC3-wt4J0KsS"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Nueva sección"
+      ],
+      "metadata": {
+        "id": "RBADcx3qAVGb"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "KpOM8GOY_TSL"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "VX5Tszt5_UrW"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "Co8aqKpA_bSN"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "C4Sr9xCB_QMQ"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "wyz9jYol_Qxr"
+      }
+    }
+  ]
+}
